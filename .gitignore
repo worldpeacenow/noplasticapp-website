@@ -26,3 +26,5 @@
 # Ignore Mac/OS files
 .DS_Store
 
+# Ignore backups folder
+/backups
